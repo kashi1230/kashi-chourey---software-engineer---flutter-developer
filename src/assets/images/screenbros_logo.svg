@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <defs>
+    <!-- Soft Warm Gold to Cream to Pale Ice Mint Gradient -->
+    <linearGradient id="screenbrosGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FCDC94" />
+      <stop offset="48%" stop-color="#ECEAD4" />
+      <stop offset="100%" stop-color="#D7ECEF" />
+    </linearGradient>
+  </defs>
+
+  <!-- Circular Logo Shape -->
+  <circle cx="250" cy="250" r="245" fill="url(#screenbrosGrad)" />
+
+  <!-- Hand-drawn Rounded Vector Paths for "SCREEN" -->
+  <g fill="none" stroke="#2D2B27" stroke-width="10.5" stroke-linecap="round" stroke-linejoin="round">
+    <!-- S -->
+    <path d="M 118 175 C 122 152, 82 150, 82 178 C 82 204, 124 205, 124 230 C 124 252, 86 252, 78 236" />
+    <!-- C -->
+    <path d="M 180 175 C 175 152, 140 154, 138 202 C 136 248, 174 254, 188 228" />
+    <!-- R -->
+    <path d="M 206 156 C 206 188, 206 218, 208 246" />
+    <path d="M 201 160 C 234 156, 250 170, 248 188 C 246 206, 224 214, 200 212 C 222 214, 240 230, 254 246" />
+    <!-- E -->
+    <path d="M 304 158 C 288 158, 276 161, 268 164 C 266 192, 266 220, 268 242 C 282 246, 296 242, 310 238" />
+    <path d="M 267 200 C 279 199, 289 198, 296 198" />
+    <!-- E -->
+    <path d="M 362 158 C 346 158, 334 161, 326 164 C 324 192, 324 220, 326 242 C 340 246, 354 242, 368 238" />
+    <path d="M 325 200 C 337 199, 347 198, 354 198" />
+    <!-- N -->
+    <path d="M 384 244 C 384 215, 384 185, 384 158 C 398 188, 412 218, 424 244 C 427 215, 428 184, 434 158" />
+  </g>
+
+  <!-- Hand-drawn Rounded Vector Paths for "BROS" -->
+  <g fill="none" stroke="#2D2B27" stroke-width="10.5" stroke-linecap="round" stroke-linejoin="round">
+    <!-- B -->
+    <path d="M 138 282 C 138 310, 138 338, 138 364" />
+    <path d="M 135 282 C 166 278, 180 292, 178 306 C 176 318, 158 323, 138 323 C 166 322, 184 334, 182 350 C 180 364, 158 368, 134 365" />
+    <!-- R -->
+    <path d="M 204 278 C 204 308, 204 338, 206 365" />
+    <path d="M 199 282 C 232 278, 248 292, 246 310 C 244 328, 222 336, 198 334 C 220 336, 238 352, 252 366" />
+    <!-- O -->
+    <path d="M 294 278 C 266 278, 260 306, 262 330 C 264 356, 280 368, 298 366 C 320 364, 326 338, 324 316 C 322 292, 310 278, 294 278 Z" />
+    <!-- S -->
+    <path d="M 380 296 C 384 274, 344 272, 344 300 C 344 326, 386 327, 386 352 C 386 372, 348 372, 340 356" />
+  </g>
+</svg>
